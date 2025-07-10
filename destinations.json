@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Borobudur Temple",
+        "description": "A magnificent 9th-century Buddhist temple and UNESCO World Heritage Site. Famous for its stunning sunrise views and ancient stone carvings.",
+        "address": "Jl. Badrawati, Kw. Candi Borobudur, Borobudur, Magelang, Central Java 56553, Indonesia",
+        "coordinates": "-7.6079,110.2038"
+    },
+    {
+        "name": "Tanah Lot Temple",
+        "description": "An iconic Hindu temple perched on a rocky outcrop in the sea. Best known for spectacular sunset views and traditional Balinese architecture.",
+        "address": "Beraban, Kediri, Tabanan Regency, Bali 82121, Indonesia",
+        "coordinates": "-8.6211,115.0868"
+    },
+    {
+        "name": "Komodo National Park",
+        "description": "Home to the legendary Komodo dragons, the world's largest living lizards. Features pristine beaches, coral reefs, and diverse marine life.",
+        "address": "West Manggarai Regency, East Nusa Tenggara, Indonesia",
+        "coordinates": "-8.5500,119.4833"
+    },
+    {
+        "name": "Raja Ampat Islands",
+        "description": "Known as the 'Four Kings', this marine paradise offers the world's richest underwater biodiversity. Perfect for diving and snorkeling enthusiasts.",
+        "address": "Raja Ampat Regency, Southwest Papua, Indonesia",
+        "coordinates": "-0.2500,130.5167"
+    },
+    {
+        "name": "Sacred Monkey Forest Sanctuary",
+        "description": "A nature reserve and Hindu temple complex in Ubud, home to hundreds of long-tailed macaques. Features ancient temples and lush tropical forest.",
+        "address": "Jl. Monkey Forest Rd, Ubud, Gianyar Regency, Bali 80571, Indonesia",
+        "coordinates": "-8.5167,115.2600"
+    }
+]
