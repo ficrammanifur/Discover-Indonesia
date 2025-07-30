@@ -6,7 +6,13 @@
   <img src="https://img.shields.io/badge/framework-Vanilla%20JS-yellow" />
   <img src="https://img.shields.io/badge/deployment-GitHub%20Pages-green" />
   <img src="https://img.shields.io/badge/responsive-Yes-brightgreen" />
-  <img src="https://img.shields.io/badge/license-MIT-blue" />
+  <a href="https://github.com/ficrammanifur/ficrammanifur/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT" />
+  </a>
+</p>
+  <a href="https://github.com/ficrammanifur/ficrammanifur/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT" />
+  </a>
 </p>
 
 <p align="center">Situs web sederhana yang menampilkan 5 destinasi wisata populer di Indonesia menggunakan HTML, CSS, dan JavaScript. Data destinasi disimpan dalam file <code>destinations.json</code>.</p>
